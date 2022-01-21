@@ -1,0 +1,53 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cfef453daa5e48d41bc61bfa6979d53f, type: 3}
+  m_Name: skill987654
+  m_EditorClassIdentifier: 
+  SkillId: 987654
+  CasterList:
+  - SkillActionType: 3
+    StartFrame: 0
+    Duration: 100
+    Name: Run_Guard
+    Type: 0
+    IntArg: 0
+  - SkillActionType: 3
+    StartFrame: 100
+    Duration: 60
+    Name: Shoot_Auto
+    Type: 0
+    IntArg: 0
+  - SkillActionType: 3
+    StartFrame: 160
+    Duration: 100
+    Name: Run_Guard
+    Type: 0
+    IntArg: 0
+  - SkillActionType: 4
+    StartFrame: 100
+    Duration: 50
+    Name: FireEffect
+    Type: 0
+    IntArg: 0
+  TargetList:
+  - SkillActionType: 3
+    StartFrame: 112
+    Duration: 32
+    Name: Die
+    Type: 0
+    IntArg: 0
+  - SkillActionType: 2
+    StartFrame: 116
+    Duration: 0
+    Name: 
+    Type: 0
+    IntArg: 0

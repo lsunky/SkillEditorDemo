@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{FE63BF86-8592-990C-7551-BE2F340D648A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleAnimationComponent", "SimpleAnimationComponent.csproj", "{4998D80C-99D2-52D1-DCFE-0A120C18E269}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleAnimationComponent-Editor", "SimpleAnimationComponent-Editor.csproj", "{D998A892-4C91-8C88-08A4-59225C5554BD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FE63BF86-8592-990C-7551-BE2F340D648A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE63BF86-8592-990C-7551-BE2F340D648A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE63BF86-8592-990C-7551-BE2F340D648A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE63BF86-8592-990C-7551-BE2F340D648A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4998D80C-99D2-52D1-DCFE-0A120C18E269}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4998D80C-99D2-52D1-DCFE-0A120C18E269}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4998D80C-99D2-52D1-DCFE-0A120C18E269}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4998D80C-99D2-52D1-DCFE-0A120C18E269}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D998A892-4C91-8C88-08A4-59225C5554BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D998A892-4C91-8C88-08A4-59225C5554BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D998A892-4C91-8C88-08A4-59225C5554BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D998A892-4C91-8C88-08A4-59225C5554BD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
