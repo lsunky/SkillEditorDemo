@@ -5,6 +5,7 @@ using UnityEngine;
 
 public class Game
 {
+    //事件处理
     public static EventManager FightEvent = new EventManager();
     
 }
